@@ -14,3 +14,10 @@
     "gulp-uglify": "^2.0.0",
     "gulp-useref": "^3.1.2",
     "run-sequence": "^1.2.2"
+
+> how to use
+
+    dev: gulp dev
+    build: gulp build
+
+Thanks
