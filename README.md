@@ -20,4 +20,7 @@
     dev: gulp dev
     build: gulp build
 
+#### 开发文件夹  app
+#### 打包发布文件夹  dist
+
 Thanks. (有福利哦)
