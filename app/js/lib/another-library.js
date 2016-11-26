@@ -1,3 +1,1 @@
-function b() {
-    return 'b'
-}
+console.log('hello another')

@@ -1,3 +1,1 @@
-function hello() {
-    return 'hello'
-}
+console.log('hello main.js')
