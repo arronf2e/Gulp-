@@ -1,7 +1,7 @@
 var gulp = require('gulp');
 var sass = require('gulp-sass'); // sass=>css
 var browserSync = require('browser-sync').create(); // livereload
-var useref = require('gulp-useref'); // 整合文件css or js
+var useref = require('gulp-useref'); // 整合文件css or js   遇到的坑： html 中一定要有注释
 var uglify = require('gulp-uglify'); // js压缩
 var gulpIf = require('gulp-if');  // If condition do something
 var minifyCss = require('gulp-minify-css'); // css压缩
